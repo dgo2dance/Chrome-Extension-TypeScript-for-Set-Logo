@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-typescript-starter",
+  "name": "Chrome Extension TypeScript Starter for Set Logo",
   "version": "1.0.0",
-  "description": "chrome-extension-typescript-starter",
+  "description": "Chrome Extension TypeScript Starter for Set Logo",
   "main": "index.js",
   "scripts": {
     "watch": "webpack --config webpack/webpack.dev.js --watch",
