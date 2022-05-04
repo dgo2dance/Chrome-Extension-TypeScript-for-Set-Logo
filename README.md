@@ -2,7 +2,7 @@
 
 ![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
 
-Chrome Extension, TypeScript and Visual Studio Code
+Chrome Extension, TypeScript and Visual Studio Code  for Set Logo
 
 ## Prerequisites
 
